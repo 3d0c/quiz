@@ -1,0 +1,42 @@
+[
+	{
+		"Id": 1,
+		"Question": "Grand Central Terminal, Park Avenue, New York is the world's",
+		"Answers": [
+			{"Id": 1, "Answer": "Largest railway station", "Right": true},
+			{"Id": 2, "Answer": "Highest railway station", "Right": false},
+			{"Id": 3, "Answer": "Longest railway station", "Right": false},
+			{"Id": 4, "Answer": "None of the above", "Right": false}
+		]
+	},
+	{
+		"Id": 2,
+		"Question": "Entomology is the science that studies",
+		"Answers": [
+			{"Id": 1, "Answer": "Behavior of human beings", "Right": false},
+			{"Id": 2, "Answer": "Insects", "Right": true},
+			{"Id": 3, "Answer": "The origin and history of technical and scientific terms", "Right": false},
+			{"Id": 4, "Answer": "The formation of rocks", "Right": false}
+		]
+	},
+	{
+		"Id": 3,
+		"Question": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of",
+		"Answers": [
+			{"Id": 1, "Answer": "Asia", "Right": false},
+			{"Id": 2, "Answer": "Africa", "Right": true},
+			{"Id": 3, "Answer": "Europe", "Right": false},
+			{"Id": 4, "Answer": "Australia", "Right": false}
+		]
+	},
+	{
+		"Id": 4,
+		"Question": "Garampani sanctuary is located at",
+		"Answers": [
+			{"Id": 1, "Answer": "Junagarh, Gujarat", "Right": false},
+			{"Id": 2, "Answer": "Diphu, Assam", "Right": true},
+			{"Id": 3, "Answer": "Kohima, Nagaland", "Right": false},
+			{"Id": 4, "Answer": "Gangtok, Sikkim", "Right": false}
+		]
+	}
+]	
