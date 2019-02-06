@@ -9,7 +9,7 @@
   
   # expected output
   Usage: ./q-client <COMMAND>
-Available commands:
+    Available commands:
       quiz.answers
       quiz.end
       quiz.match
